@@ -13,14 +13,19 @@
 		"dotenv": "^8.2.0",
 		"detect-browser": "latest"
 	},
+	"engines": {
+		"node": "17.2.0"
+	  },
+
 	"repository": {
 		"type": "git",
-		"url": "https://hyperdev.com/#!/project/welcome-project"
+		"url": "https://github.com/nikGrape/boilerplate-project-headerparser"
 	},
 	"keywords": [
 		"node",
 		"hyperdev",
-		"express"
+		"express",
+		"heroku"
 	],
 	"license": "MIT"
 }
