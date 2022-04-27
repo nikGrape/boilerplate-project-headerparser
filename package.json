@@ -1,5 +1,6 @@
 {
 	"name": "request_header",
+	"author": "N Vinogradov",
 	"version": "0.0.1",
 	"description": "API project for freeCodeCamp",
 	"main": "server.js",
@@ -9,7 +10,8 @@
 	"dependencies": {
 		"express": "^5.0.0-alpha.2",
 		"cors": "^2.8.1",
-		"dotenv": "^8.2.0"
+		"dotenv": "^8.2.0",
+		"detect-browser": "latest"
 	},
 	"repository": {
 		"type": "git",
